@@ -8,7 +8,7 @@ Get started by following the guides:
   - [Importing SVGs](/import)
   - [Importing SVGs Dynamically](/dynamicimport)
 
-If you have a problem with the plugin, see the [troubleshoting section](/troubleshoting). 
+If you have a problem with the plugin, see the [troubleshooting section](/troubleshoting). 
 
 <div class="centered">
 

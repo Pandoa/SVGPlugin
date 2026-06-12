@@ -1,0 +1,28 @@
+{
+  "root_url": "http://localhost:3000",
+  "target_url": "https://pandoa.github.io/SVGSVGPlugin/",
+  "out_dir": "docs/",
+  "src_dir": "src/",
+  "load_timeout": 20000,
+  "remove_selectors": [
+    ".delete-static",
+    "script[src*=\"livereload.js\"]",
+    "iframe[allow=\"join-ad-interest-group\"]"
+  ],
+  "string_replaces": [
+    ["href=\"/\"", "href=\".\""],
+    ["?id=", ".html#"],
+    ["js.html#", "js.html?id="],
+    ["img src=\"/", "img src=\"./"]
+  ],
+  "title_append": " | PDF Viewer",
+  "pages": {
+    "index": {
+      "title": "Plugin for SVGs in Unreal Engine | UE5 SVG Plugin",
+      "description": "Documentation for the most popular SVG plugin for Unreal Engine. Load and show SVGs in Unreal Engine in 2D or 3D.",
+      "keywords": "svg,ue,ue5,plugin,integration",
+      "priority": 1,
+      "in_sitemap": true
+    }
+  }
+}

@@ -1,18 +1,13 @@
 
-# SVG Plugin
-
-> A Unreal Engine 5 library to handle SVG assets in Unreal Engine 5.
 
 
-Get started by following the guides:
-  - [Importing SVGs](/import)
-  - [Importing SVGs Dynamically](/dynamicimport)
 
-If you have a problem with the plugin, see the [troubleshooting section](/troubleshoting). 
+<!--backlinks-->
 
-<div class="centered">
+#### Navigate the documentation
 
-</div>
-
-<div class="centered">
-</div>
+ - [https://pandoa.github.io/SVGSVGPlugin/](https://pandoa.github.io/SVGSVGPlugin/),
+ - [https://pandoa.github.io/SVGSVGPlugin/dynamicimport](https://pandoa.github.io/SVGSVGPlugin/dynamicimport),
+ - [https://pandoa.github.io/SVGSVGPlugin/import](https://pandoa.github.io/SVGSVGPlugin/import),
+ - [https://pandoa.github.io/SVGSVGPlugin/support](https://pandoa.github.io/SVGSVGPlugin/support),
+ - [https://pandoa.github.io/SVGSVGPlugin/troubleshoting](https://pandoa.github.io/SVGSVGPlugin/troubleshoting)
